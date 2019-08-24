@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PlayerCompare/static/css/main.5d135dba.chunk.css",
-    "main.js": "/PlayerCompare/static/js/main.2f23ccc2.chunk.js",
-    "main.js.map": "/PlayerCompare/static/js/main.2f23ccc2.chunk.js.map",
+    "main.js": "/PlayerCompare/static/js/main.ae4cfe12.chunk.js",
+    "main.js.map": "/PlayerCompare/static/js/main.ae4cfe12.chunk.js.map",
     "runtime~main.js": "/PlayerCompare/static/js/runtime~main.6442b7a5.js",
     "runtime~main.js.map": "/PlayerCompare/static/js/runtime~main.6442b7a5.js.map",
     "static/css/2.5d45f07d.chunk.css": "/PlayerCompare/static/css/2.5d45f07d.chunk.css",
     "static/js/2.e4532ac8.chunk.js": "/PlayerCompare/static/js/2.e4532ac8.chunk.js",
     "static/js/2.e4532ac8.chunk.js.map": "/PlayerCompare/static/js/2.e4532ac8.chunk.js.map",
     "index.html": "/PlayerCompare/index.html",
-    "precache-manifest.6b9b171472c49fe07898fc0af93ce72a.js": "/PlayerCompare/precache-manifest.6b9b171472c49fe07898fc0af93ce72a.js",
+    "precache-manifest.176fbf76cd10916996be2099bbc4dd43.js": "/PlayerCompare/precache-manifest.176fbf76cd10916996be2099bbc4dd43.js",
     "service-worker.js": "/PlayerCompare/service-worker.js",
     "static/css/2.5d45f07d.chunk.css.map": "/PlayerCompare/static/css/2.5d45f07d.chunk.css.map",
     "static/css/main.5d135dba.chunk.css.map": "/PlayerCompare/static/css/main.5d135dba.chunk.css.map"
