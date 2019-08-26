@@ -77,7 +77,7 @@ class App extends React.Component{
 					  path='/Search'
 					  render={(props) => <Search {...props} addPlayer={this.addPlayer} />}
 					/>
-					<Route path="/" component={Home} />" +
+					<Route path="/" component={Home} /> 
 					</Switch>
 				</div>
 				<SuccessAlert />
