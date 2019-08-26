@@ -9,7 +9,6 @@ import ErrorAlert from "./components/ErrorAlert.js"
 import OverflowAlert from "./components/OverflowAlert.js"
 import { Switch, Route, BrowserRouter as Router } from 'react-router-dom'
 import $ from "jquery"
-import 'bootstrap';
 
 class App extends React.Component{
 	constructor(){
